@@ -89,3 +89,7 @@ select {
   height: 80px;
   width: 100%;
 }
+
+.fiels_with_errors {
+  display: contents;
+}
